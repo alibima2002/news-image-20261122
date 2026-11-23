@@ -1,8 +1,8 @@
 # 22 November 2026 — World News in One Image
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun)
-[![competition](https://make.fun/bounty/news-image-20261122/badge.svg)](https://make.fun/bounty/news-image-20261122)
-[![entry](https://make.fun/entry/news-image-20261122/badge.svg)](https://make.fun/bounty/news-image-20261122)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/alibima2002/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/alibima2002/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 A one-image summary of the world's news of **Sunday 22 November 2026**, drawn
 programmatically with Python/PIL (`draw_entry.py`, DejaVu Sans) and shipped as
